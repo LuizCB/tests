@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body {
+	background-color: lightgray
+}
+.LED {
+	padding: 5px;
+}
+#led1.hover { border:2px solid yellow; padding:10px;}
+#led1 {
+	position: relative;
+}
+#led2 {
+	position: relative;
+}
+span {
+	border: 3px darkgray dotted;
+}
+  
+
+  /* .LED.Flash { background: #fff }  */
+  /* #LED { color: #fff; backgroundcolor: #000 } */
+  
+/* test with img */
+#testImg {
+list-style-type: none;
+padding: 0;
+margin: 0;
+width: 59%;
+height: 15%; 
+background-image: url(http://dummyimage.com/6x3/7a7a7a/ffffff.png);
+} 
